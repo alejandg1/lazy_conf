@@ -13,5 +13,5 @@ return {
   opts = {
     colorscheme = "tokyonight",
   },
-  enabled = false,
+  enabled = true,
 }
